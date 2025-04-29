@@ -150,7 +150,7 @@ However, to use GPT responses:
 
 ## Troubleshooting
 
-- **KeyError:** If you encounter a `KeyError: 'Company Name'`, ensure that your CSV file has the correct column headers and is formatted properly (case-sensitive).
+
 - **API Key Issues:** If the chatbot isn't working properly with OpenAI, double-check that your API key is valid and set correctly in the `.env` file.
 
 ---
